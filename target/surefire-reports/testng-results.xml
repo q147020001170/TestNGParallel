@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-11T18:05:27 CST" name="Suite" finished-at="2025-06-11T18:06:17 CST" duration-ms="50038">
+    <groups>
+    </groups>
+    <test started-at="2025-06-11T18:05:27 CST" name="com.FirstTest" finished-at="2025-06-11T18:05:53 CST" duration-ms="26144">
+      <class name="FirstTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:27 CST" name="setup" finished-at="2025-06-11T18:05:36 CST" duration-ms="8246" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:27 CST" name="setup" finished-at="2025-06-11T18:05:36 CST" duration-ms="8239" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:27 CST" name="setup" finished-at="2025-06-11T18:05:46 CST" duration-ms="19021" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:27 CST" name="setup" finished-at="2025-06-11T18:05:36 CST" duration-ms="8242" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:27 CST" name="setup" finished-at="2025-06-11T18:05:47 CST" duration-ms="19310" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:27 CST" name="setup" finished-at="2025-06-11T18:05:36 CST" duration-ms="8206" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:27 CST" name="setup" finished-at="2025-06-11T18:05:47 CST" duration-ms="19156" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="GOOGLE1()[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:36 CST" name="GOOGLE1" finished-at="2025-06-11T18:05:45 CST" duration-ms="9135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GOOGLE1 -->
+        <test-method signature="GOOGLE5()[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:36 CST" name="GOOGLE5" finished-at="2025-06-11T18:05:43 CST" duration-ms="7392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GOOGLE5 -->
+        <test-method signature="GOOGLE4()[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:36 CST" name="GOOGLE4" finished-at="2025-06-11T18:05:44 CST" duration-ms="7835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GOOGLE4 -->
+        <test-method signature="GOOGLE7()[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:36 CST" name="GOOGLE7" finished-at="2025-06-11T18:05:43 CST" duration-ms="7184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GOOGLE7 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:43 CST" name="tearDown" finished-at="2025-06-11T18:05:43 CST" duration-ms="394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:43 CST" name="tearDown" finished-at="2025-06-11T18:05:43 CST" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:44 CST" name="tearDown" finished-at="2025-06-11T18:05:44 CST" duration-ms="294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:45 CST" name="tearDown" finished-at="2025-06-11T18:05:45 CST" duration-ms="501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="GOOGLE6()[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:46 CST" name="GOOGLE6" finished-at="2025-06-11T18:05:53 CST" duration-ms="6698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GOOGLE6 -->
+        <test-method signature="GOOGLE2()[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:47 CST" name="GOOGLE2" finished-at="2025-06-11T18:05:52 CST" duration-ms="5180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GOOGLE2 -->
+        <test-method signature="GOOGLE3()[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:47 CST" name="GOOGLE3" finished-at="2025-06-11T18:05:53 CST" duration-ms="6029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GOOGLE3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:52 CST" name="tearDown" finished-at="2025-06-11T18:05:52 CST" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:53 CST" name="tearDown" finished-at="2025-06-11T18:05:53 CST" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:53 CST" name="tearDown" finished-at="2025-06-11T18:05:53 CST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:FirstTest@5ddea849]" started-at="2025-06-11T18:05:53 CST" name="terminate" finished-at="2025-06-11T18:05:53 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- FirstTest -->
+    </test> <!-- com.FirstTest -->
+    <test started-at="2025-06-11T18:05:54 CST" name="com.SecondTest" finished-at="2025-06-11T18:06:17 CST" duration-ms="23715">
+      <class name="SecondTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:SecondTest@246f8b8b]" started-at="2025-06-11T18:05:54 CST" name="setup" finished-at="2025-06-11T18:06:04 CST" duration-ms="10888" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:SecondTest@246f8b8b]" started-at="2025-06-11T18:05:54 CST" name="setup" finished-at="2025-06-11T18:06:07 CST" duration-ms="13309" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:SecondTest@246f8b8b]" started-at="2025-06-11T18:05:54 CST" name="setup" finished-at="2025-06-11T18:06:04 CST" duration-ms="10620" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FIREFOX3()[pri:0, instance:SecondTest@246f8b8b]" started-at="2025-06-11T18:06:04 CST" name="FIREFOX3" finished-at="2025-06-11T18:06:12 CST" duration-ms="7689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FIREFOX3 -->
+        <test-method signature="FIREFOX2()[pri:0, instance:SecondTest@246f8b8b]" started-at="2025-06-11T18:06:04 CST" name="FIREFOX2" finished-at="2025-06-11T18:06:12 CST" duration-ms="7151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FIREFOX2 -->
+        <test-method signature="FIREFOX1()[pri:0, instance:SecondTest@246f8b8b]" started-at="2025-06-11T18:06:07 CST" name="FIREFOX1" finished-at="2025-06-11T18:06:14 CST" duration-ms="7361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FIREFOX1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SecondTest@246f8b8b]" started-at="2025-06-11T18:06:12 CST" name="tearDown" finished-at="2025-06-11T18:06:16 CST" duration-ms="3928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SecondTest@246f8b8b]" started-at="2025-06-11T18:06:12 CST" name="tearDown" finished-at="2025-06-11T18:06:16 CST" duration-ms="3623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SecondTest@246f8b8b]" started-at="2025-06-11T18:06:14 CST" name="tearDown" finished-at="2025-06-11T18:06:17 CST" duration-ms="3038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:SecondTest@246f8b8b]" started-at="2025-06-11T18:06:17 CST" name="terminate" finished-at="2025-06-11T18:06:17 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- SecondTest -->
+    </test> <!-- com.SecondTest -->
+  </suite> <!-- Suite -->
+</testng-results>
