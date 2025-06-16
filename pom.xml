@@ -44,14 +44,12 @@
             <version>7.8.0</version> <!-- 推荐使用最新稳定版 -->
             <scope>test</scope> <!-- 通常设置为test范围 -->
         </dependency>
-        <!--
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>1.18.12</version>
             <scope>test</scope>
         </dependency>
-        -->
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
